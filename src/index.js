@@ -1,3 +1,4 @@
+import 'whatwg-fetch'; // makes sure the 'fetch' command is supported by all the browser 
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
